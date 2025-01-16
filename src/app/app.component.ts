@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  public title: string  = 'Hola Mundo';
+  public title: string  = 'Hola Aplicación de Dragon Ball Z';
 
 
 }
